@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Doraemon! 😉
 
 <h3>Connect with me</h3>
-<a href="https://www.linkedin.com/in/neha-garg-409228211/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-ramnaney-b74a8a22a" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/neha-garg-409228211/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://twitter.com/NehaGar73299884" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" height="30" width="40" style="max-width: 100%;"></a>

@@ -1,4 +1,5 @@
-                          #### Hi, I'm Neha Garg 👋
+<!--#### Hi, I'm Neha Garg 👋-->
+<h1 align="center">Hi, I'm Neha Garg 👋</h1>
 ## Passionate Web Developer and Coder
 
 <!--
